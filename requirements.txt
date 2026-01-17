@@ -1,0 +1,16 @@
+# APIs y Web Scraping
+instaloader
+tweepy
+
+# Automatización de navegador
+selenium
+webdriver-manager
+
+# Utilidades
+requests
+pillow
+python-dotenv
+
+# Opcional: Para scraping más avanzado
+beautifulsoup4
+playwright
